@@ -1,1 +1,1 @@
-# data-exploration-with-apache-drill
+# Data Exploration with Apache Drill
