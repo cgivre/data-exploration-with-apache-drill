@@ -1,4 +1,4 @@
-![oreilly-logo](./images/oreilly.png)![oreilly-logo](./images/drillpng)
+![oreilly-logo](./images/oreilly.png) ![Apache Drill Logo](./images/drill.png)
 
 # Data Exploration with Apache Drill
 
