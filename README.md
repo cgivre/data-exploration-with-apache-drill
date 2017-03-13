@@ -8,7 +8,7 @@ Drill uses standard ANSI SQL as its main user interface.  This course focuses on
 ### Required Software
 For this class, I will provide you with a virtual machine with Drill and all the required software pre-configured.  I **highly** recommend using the virtual machine. The virtual machine needs 8GB of RAM and 30GB of hard disk space.  You will also need to:
 * Download and install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-* Download and unzip the Merlin virtual machine.  (You'll need 7-zip to unzip the VM)
+* Download and unzip the Griffon virtual machine here: http://bit.ly/griffon1  (You'll need 7-zip to unzip the VM)
 
 If you are not using the VM, you will need to install Drill on your local machine. 
 
